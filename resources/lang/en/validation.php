@@ -86,6 +86,8 @@ return [
     'uploaded'             => 'The :attribute failed to upload.',
     'url'                  => 'The :attribute format is invalid.',
 
+    'flightstatus'         => 'The :attribute field can only be ontime or delayed',
+
     /*
     |--------------------------------------------------------------------------
     | Custom Validation Language Lines
